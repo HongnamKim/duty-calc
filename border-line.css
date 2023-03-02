@@ -1,0 +1,51 @@
+header {
+  border: 1px solid red;
+}
+
+h1 {
+  border: 1px solid green;
+}
+
+nav {
+  border: 1px solid green;
+}
+
+a {
+  border: 1px solid blue;
+}
+
+.comparison {
+  border: 1px solid black;
+}
+
+.comparison > div {
+  border: 1px solid red;
+}
+
+.exchange {
+  border: 1px solid red;
+}
+
+.exchange-time {
+  border: 1px solid green;
+}
+
+.exchange-values {
+  border: 1px solid green;
+}
+
+.exchange-value {
+  border: 1px solid blue;
+}
+
+.user-input > div {
+  border: 1px solid green;
+}
+
+.duty > div {
+  border: 1px solid green;
+}
+
+.separate > div {
+  border: 1px solid green;
+}

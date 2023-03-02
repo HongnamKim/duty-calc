@@ -1,0 +1,64 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+
+a {
+  color: black;
+  text-decoration-line: none;
+  margin-left: 30px;
+}
+
+.comparison {
+  display: flex;
+}
+
+.comparison > div {
+  width: 33%;
+}
+
+.exchange {
+  margin-bottom: 30px;
+}
+
+.exchange-time {
+  margin-bottom: 15px;
+}
+
+.exchange-value {
+  /*border: 1px solid blue;*/
+  margin-right: 30px;
+}
+
+.user-input > div {
+  margin-bottom: 20px;
+}
+
+.user-input-item input:first-child {
+  width: 40px;
+}
+
+.duty div {
+  margin-bottom: 15px;
+}
+
+.duty-line {
+  height: 1px;
+  border-bottom: 2px solid black;
+}
+
+.separate div {
+  margin-bottom: 15px;
+}
+
+.separate-line {
+  height: 1px;
+  border-bottom: 2px solid black;
+}
